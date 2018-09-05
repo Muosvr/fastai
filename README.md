@@ -1,6 +1,5 @@
-# notes from fastai lessons
+# Instructions:
 
-Instructions:
 1. Download dogscats_small.zip
 2. Open notebook Dogsandcats.ipynb and click View in Colaboratory to open a sandbox instance
 3. Make a copy in your Google Drive to prevent memory error: File -> Save a copy in Drive
