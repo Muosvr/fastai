@@ -6,5 +6,6 @@
 4. Run notebook from the top (Click run cell or ctrl + enter to run each cell)
 5. Upload dogscats_small.zip file on prompt
 6. Train
+7. Try using your own images!
 
 Further learning visit: www.fast.ai
